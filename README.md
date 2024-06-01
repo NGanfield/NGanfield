@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NGanfield
+- I’m interested in learning to code
+- I’m currently learning HTML and CSS
